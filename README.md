@@ -1,25 +1,26 @@
 Steps to follow
 
-01: Copy movie-booking-system folder
-02: Paste the folder into this path C:/xampp/htdocs/
-03: Open Xampp and start Apache and MySQL
-04: Open web browser and goto http://localhost/phpmyadmin/
-05: Create new database called cinemix.
-06: Click on import button and choose the SQL Query file under database folder in movie-booking-system folder and click on go button to execute the quires.
-07: open new tab and paste: http://localhost/movie-booking-system/
+01: Copy movie-booking-system folder <br>
+02: Paste the folder into this path C:/xampp/htdocs/ <br>
+03: Open Xampp and start Apache and MySQL <br>
+04: Open web browser and goto http://localhost/phpmyadmin/ <br>
+05: Create new database called cinemix. <br>
+06: Click on import button and choose the SQL Query file under database folder in movie-booking-system folder and click on go button to execute the quires. <br>
+07: open new tab and paste: http://localhost/movie-booking-system/ <br>
 
--- User Login Credentials --
-username: user
+<br>
+-- User Login Credentials -- <br>
+username: user <br>
 password: user
 
-
--- Admin Login Credentials --
-url: http://localhost/movie-booking-system/admin/
-username: admin
+<br><br>
+-- Admin Login Credentials -- <br>
+url: http://localhost/movie-booking-system/admin/ <br>
+username: admin <br>
 password: admin
 
-
--- Manager Login Credentails --
-url: http://localhost/movie-booking-system/manager/
-username: manager
+<br><br>
+-- Manager Login Credentails -- <br>
+url: http://localhost/movie-booking-system/manager/ <br>
+username: manager <br>
 password: manager
