@@ -13,13 +13,13 @@ Steps to follow
 username: user <br>
 password: user
 
-<br>
+<br><br>
 -- Admin Login Credentials -- <br>
 url: http://localhost/movie-booking-system/admin/ <br>
 username: admin <br>
 password: admin
 
-<br>
+<br><br>
 -- Manager Login Credentails -- <br>
 url: http://localhost/movie-booking-system/manager/ <br>
 username: manager <br>
