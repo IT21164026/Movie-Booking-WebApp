@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/IT21164026/Movie-Booking-WebApp/main/Cinemix%20Folder%20Structure.png">
+
 Steps to follow
 
 01: Copy movie-booking-system folder <br>
@@ -12,13 +14,11 @@ Steps to follow
 -- User Login Credentials -- <br>
 username: user <br>
 password: user
-
 <br><br>
 -- Admin Login Credentials -- <br>
 url: http://localhost/movie-booking-system/admin/ <br>
 username: admin <br>
 password: admin
-
 <br><br>
 -- Manager Login Credentails -- <br>
 url: http://localhost/movie-booking-system/manager/ <br>
